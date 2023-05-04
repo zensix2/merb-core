@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
