@@ -1,1 +1,1 @@
-Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
+Mkdocs updates (#8008)
