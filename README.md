@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Clean up unused imgsz (#7771)
