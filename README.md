@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Add YOLOv8 LibTorch C++ inference example (#7090)
