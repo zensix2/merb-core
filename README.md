@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+added badges (#45)
