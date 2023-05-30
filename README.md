@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Add YOLOv8 LibTorch C++ inference example (#7090)
