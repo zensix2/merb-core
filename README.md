@@ -1,1 +1,1 @@
-fix val each epoch
+Fix RTDETR generate anchor grid out of boundary (#7247)
