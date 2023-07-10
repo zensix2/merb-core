@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
