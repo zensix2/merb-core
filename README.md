@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
