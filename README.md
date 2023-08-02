@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
