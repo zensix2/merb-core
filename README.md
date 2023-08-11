@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Add Weights & Biases Docs integrations page (#7199)
