@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Explorer with LanceDB, Actions and Docs updates (#7487)
