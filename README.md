@@ -1,1 +1,1 @@
-Update README.md
+Use pathlib in DOTA ops (#7552)
