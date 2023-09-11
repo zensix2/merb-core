@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
