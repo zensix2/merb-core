@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Move Explorer tests to scheduled CI (#8305)
