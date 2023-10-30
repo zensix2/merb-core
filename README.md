@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
