@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
