@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Update H1 in Explorer API docs (#7813)
