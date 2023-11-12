@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
