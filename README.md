@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
