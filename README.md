@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Update Discord and Contributing Guide URLs (#9270)
