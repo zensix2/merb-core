@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Explorer with LanceDB, Actions and Docs updates (#7487)
