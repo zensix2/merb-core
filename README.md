@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
