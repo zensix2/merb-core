@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Fix Neural Magic links (#9144)
