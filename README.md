@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Fix cmake requirements for ARM64 (#8589)
