@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+Update Discord and Contributing Guide URLs (#9270)
