@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
