@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
