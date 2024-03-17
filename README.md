@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
