@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
