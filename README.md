@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
