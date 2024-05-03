@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Update Discord and Contributing Guide URLs (#9270)
