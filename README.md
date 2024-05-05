@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
