@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+ultralytics 8.0.229 add model.embed() method (#7098)
