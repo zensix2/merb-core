@@ -1,1 +1,1 @@
-Add docs links to all dataset YAMLs (#7360)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
