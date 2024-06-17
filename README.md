@@ -1,1 +1,1 @@
-ultralytics 8.1.28 avoid * ops on bool Tensors for RT-DETR OpenVINO export (#8937)
+Fix device counting method to account for double-digit device IDs (#8502)
