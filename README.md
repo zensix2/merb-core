@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Compress docs images (#8124)
