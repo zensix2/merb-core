@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Add dota8.yaml and O tests (#7394)
