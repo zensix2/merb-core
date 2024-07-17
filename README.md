@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+fix for predicting with batch_size > 1 (#47)
