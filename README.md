@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Update neural-magic.md (#7347)
