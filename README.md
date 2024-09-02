@@ -1,1 +1,1 @@
-Add TF GraphDef Docs Integrations Page (#9203)
+Fix Multi-GPU resume bug (#7328)
