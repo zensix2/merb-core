@@ -1,1 +1,1 @@
-fix resume training
+Retry once for Docker CI failures (#8164)
