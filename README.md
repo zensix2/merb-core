@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Add Weights & Biases Docs integrations page (#7199)
