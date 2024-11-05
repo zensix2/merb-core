@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
