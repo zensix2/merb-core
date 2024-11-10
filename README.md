@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+ultralytics 8.1.28 avoid * ops on bool Tensors for RT-DETR OpenVINO export (#8937)
